@@ -1,0 +1,197 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+#top1main{
+  display: flex;
+  background-color: rgb(18,25,33);;
+color: rgb(214,208,210);
+height: 80px;
+justify-content: space-evenly;
+margin-right: 10px;
+
+}
+#logo{
+  width: 100px;
+  height: 10opx;
+  background-color: rgb(18,25,33);
+  margin: 25px 90% 90% 10px;
+}
+
+#locationlogo{
+  width: 20px;
+  height: 20px;
+  background-color: rgb(18,25,33);
+  margin: 35px 80% 90% 20px;
+}
+/* #p{
+  margin-top: 10px;
+  margin-left: 20px; */
+}
+#searchbutton{
+  margin-left: 280px;
+
+}
+#search{
+  margin-left: 90px;
+  width: 300%;
+  height: 35px;
+border-radius: 5px;
+margin-top: 30px;
+  
+}
+#flag{
+  margin-left: 650px;
+  display: flex;
+  width: 15px;
+  height: 17px;
+  margin-top: 20px;
+}
+#down{
+  margin-top:20px ;
+}
+#sign{
+  margin-left: 40px;
+  margin-top: 20px;
+}
+#return{
+  margin-left: 45px;
+  margin-top: 20px;
+}
+#cart1{
+  display: flex;
+  margin-top: 30px;
+  margin-left: 20px;
+
+}
+#cart2{
+  width: 40px;
+  height: 30px;
+  margin-top: 2opx;
+}
+
+#top2{
+  display: flex;
+  background-color: rgb(36,48,64);
+  color: rgb(188,184,188);
+  /* justify-content: space-evenly; */
+  /* margin-left: ; */
+  /* word-spacing: 40px;  */
+  /* margin-top: 20px; */
+}
+#texttop2{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20px;
+  word-spacing: 40px;
+  margin-top: 30px;
+}
+#menu{
+  width: 15px;
+  height: 20px;
+  justify-content: space-around;
+}
+#all{
+  margin-left: 10px;
+}
+#lion{
+width: 40%;
+height: 40px;
+margin-left: 15px;
+margin-top: 10px;
+}
+#top223{
+  display: flex;
+  margin-left: 150px;
+  height: 80px;
+}
+#prime{
+  margin-top: 20px;
+  margin-left: 15px;
+}
+#arrow{
+  margin-left: 0px;
+  
+}
+#primeday{
+  margin-left: 13px;
+  margin-top: 0px;
+}
+#date{
+  margin-left: 20px;
+  margin-top: 30px;
+}
+#bottom{
+  background-image: url(assets/ba);
+}
+#actualbottom{
+  display: flex;
+}
+#firstrowphoto{
+display: flex;
+}
+#secondrowphoto{
+  display: flex;
+}
+#display{
+  display: flex;
+}
+#display2{
+  display: flex;
+}
+#actualbottom{
+  background-image: url(assets/background\ picture.png);
+margin-top: 0px;
+}
+#unknown{
+/* padding: 100px;} */}
+
+#s1stbox{
+  background-color: white;
+  border: 1px solid white;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 300px;
+}
+#secondbox{
+  background-color: white;
+  border: 1px solid white;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 300px;
+  margin-left: 30px;
+}
+#thirdpic{
+  /* margin-top: 300px; */
+  background-color: white;
+  border: 1px solid white;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 300px;
+  margin-left: 30px;
+}
+#smallbutton{
+  background-color: white;
+  border: 1px solid white;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 300px;
+  margin-left: 30px;
+  height: 150px;
+  width: 250px;
+  justify-content: center;
+  padding: 20px;
+}
+#btn{
+  padding: 10px;
+  border-radius: 15px;
+  width: 80%;
+  margin-top: 20px;
+  background-color: rgb(254,216,19);
+  border-color: rgb(254,216,19);
+}
+#lap{
+  width: 100%;
+  margin-top: 90px;
+}
